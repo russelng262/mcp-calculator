@@ -1,5 +1,6 @@
 # mcp-calculator
 
+```json
 {
   "mcpServers": {
     "calculator-server": {
@@ -12,3 +13,4 @@
     }
   }
 }
+```
