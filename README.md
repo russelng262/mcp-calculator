@@ -1,15 +1,16 @@
 # mcp-calculator
 
-```json
+```
 {
   "mcpServers": {
-    "calculator-server": {
+    "calculator-server-russelng262": {
       "command": "uvx",
       "args": [
         "--from",
         "git+https://github.com/russelng262/mcp-calculator@main",
-        "calculator-server"
-      ]
+        "calculator-server-russelng262"
+      ],
+      "env": {}
     }
   }
 }
